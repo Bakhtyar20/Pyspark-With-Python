@@ -40,3 +40,8 @@ withColumn is used to add a new column.
 filter is used to filter rows based on a condition.
 drop is used to remove a column.
 These operations are chainable and do not mutate the original DataFrame, which aligns with the principles of functional programming.
+
+
+
+![image](https://github.com/user-attachments/assets/097e131d-a5b3-4e34-b10e-3a706c82a15e)
+
